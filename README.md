@@ -2,7 +2,7 @@
 实现Encoder-only Transformer用于PTB词级语言建模。
 
 ## 1. 数据集说明
-- 选用数据集：Penn Treebank (PTB)
+- 选用数据集：Penn Treebank (PTB)  https://huggingface.co/datasets/ptb-text-only
 - 任务类型：词级语言建模（Word-level LM）
 - 数据集规模：~1M tokens
 - 加载方式：通过Hugging Face `ptb-text-only` 数据集加载
